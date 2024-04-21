@@ -1,5 +1,6 @@
 # Image-Segmentation-using-GMM
 Gaussian Mixture Models for Image Segmentation
+
 **1) Background Subtraction;**
 Background subtraction is a technique mainly used in video processing to detect moving objects within a sequence of frames. It involves comparing each frame of the video to a model of the background to identify changes. These changes are assumed to be due to the movement of objects (foreground) in the scene. The key idea is to subtract the static background from each frame, leaving behind the moving objects. This method is particularly effective in scenarios where the camera is stationary, and the background is relatively constant, such as surveillance systems, traffic monitoring, and motion detection applications. This is used in one of the major tasks in the field of computer vision and image processing, whose aim is to detect changes in image sequences.
 
